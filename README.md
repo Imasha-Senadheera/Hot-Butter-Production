@@ -1,6 +1,5 @@
 # Hot-Butter-Production 🎬
-Welcome to HOTButter Production! We are one of the fastest-growing digital marketing companies specializing in social media advertising and content creation. 
-This repository contains the ongoing project for our digital marketing agency.
+I developed the website for HOTButter Production, a rapidly growing digital marketing company specializing in social media advertising and content creation. This project showcases the company’s services and portfolio through a sleek, user-friendly design.
 
 
 ## Features
